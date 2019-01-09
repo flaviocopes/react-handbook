@@ -78,7 +78,7 @@ Starting in this way with script tags is good for building prototypes and enable
 
 `create-react-app` is a project aimed at getting you up to speed with React in no time, and any React app that needs to outgrow a single page will find that `create-react-app` meets that need.
 
-You start by using [`npx`](https://flaviocopes.com/npx/), which is an easy way to download and execute Node.js commands without installing them. `npx` comes with `npm` (since version 5.2) and if you don't have npm installed already, do it now from <https://nodejs.org> (npm is installed with Node).
+You start by using [`npx`](https://flaviocopes.com/npx/), which is an easy way to download and execute Node.js commands and packages without installing them. `npx` comes with `npm` (since version 5.2) and if you don't have npm installed already, do it now from <https://nodejs.org> (npm is installed with Node).
 
 If you are unsure which version of npm you have, run `npm -v` to check if you need to update.
 
